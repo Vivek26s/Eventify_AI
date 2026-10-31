@@ -1,0 +1,6 @@
+{
+  "name": "Eventify AI",
+  "description": "Smart celebration & event planner powered by Gemini AI. Organize weddings, birthdays, corporate events, and festivals with budget optimization, vendor management, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
